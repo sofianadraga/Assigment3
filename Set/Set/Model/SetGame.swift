@@ -1,10 +1,3 @@
-//
-//  Card.swift
-//  Set
-//
-//  Created by Chenqin zhang on 2024/2/8.
-//
-
 import Foundation
 import SwiftUI
 
@@ -155,11 +148,6 @@ struct SetGame {
         var id: String
     }
 }
-
-
-
-
-
 
 struct Content: Equatable {
     private(set) var shape: Shape
